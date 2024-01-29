@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barot Malhar</h1>
 <h3 align="center">A Semester 3 "Information Technology" Student.</h3>
-<img align="right" alt="Coding/Gaming" width="400" src="[https://github.com/topics/gifs?l=python](https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif)">
+<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB+This+is+Abhi%2C+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)" align="right" width="400" alt="Coding/Gaming">
 
 <p align="left"> <img src="" alt="mythmalhar" /> </p>
 
