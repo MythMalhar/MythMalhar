@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Barot Malhar</h1>
-<h3 align="center">A Semester 3 Information Technology Student.</h3>
-<img align="right" alt="Coding/Gaming" width="400" src="https://github.com/topics/gifs?l=python">
+<h3 align="center">A Semester 3 "Information Technology" Student.</h3>
+<img align="right" alt="Coding/Gaming" width="400" src="[https://github.com/topics/gifs?l=python](https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mythmalhar&label=Profile%20views&color=0e75b6&style=flat" alt="mythmalhar" /> </p>
+<p align="left"> <img src="" alt="mythmalhar" /> </p>
 
 - 🌱 I’m currently learning **ReactJs,and NodeJS**
 
